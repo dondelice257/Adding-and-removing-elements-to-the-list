@@ -1,0 +1,51 @@
+
+Conversation ouverte. 1 message lu.
+
+
+          
+
+
+         input{
+            padding: 5px;
+            width: 250px;
+         }
+        button{ 
+            font-size: 22px;
+            width: 100vh
+            border: none;
+            color: white;
+            background-color: green;
+         }
+
+        body{ 
+            background-color: aquamarine;
+         }
+
+        ol{
+            list-style:decimal;
+            list-style-position: inside;
+        }
+        
+       ol li{
+            background-color: orange;
+            width: 300px;
+            height: 25px;
+            padding-left: 5px;
+            position: relative;
+            margin: 10px;
+
+            
+        }
+        ol li span{ 
+            background-color: rgb(255, 0, 0);
+            color: rgb(255, 255, 255);
+            padding-left: 10px;
+            padding-right: 10px;
+            text-transform: uppercase;
+            position: absolute;
+            right: 0;
+            height: 100%;
+        }
+    
+style.css
+Affichage de style.css en cours...
