@@ -1,6 +1,6 @@
 const list = document.querySelector("ol"); 
 const input = document.querySelector("input"); 
-const button = document.querySelector("button");
+const button = document.querySelector("button");1
 function action() { 
   if(input.value != ""){ 
     const newEl = document.createElement("li"); 
